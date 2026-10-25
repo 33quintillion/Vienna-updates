@@ -1,5 +1,11 @@
 {
  "app": "Vienna",
  "what": "Licence and update files for Vienna. Each one is signed with the seller's key and locked to one computer.",
- "at": "2026-10-25T05:05:39.490Z"
+ "at": "2026-10-25T05:28:31.889Z",
+ "ci": {
+  "f": "vienna-ci-1",
+  "iv": "8Cd0zJ1D835VbY6F",
+  "tag": "udT7BnNW9JMqlEshQXBBUg==",
+  "d": "xgH7FnCAbQihVlBkbInxyfSalUEhBwZuhPo/HyYpd9YRv8vgogV8D2mWNZ3FTfpPOc22Fwq+HAszEUW0pQR2ps66xJjyR32k5uOEU9w5hwtFIz0LMUFQWDZtMn0l1YwBckiDMOL1Y/9ml671fXXg0/s989zXH8CsQFzMnYBdCcDeaaZgrWgt7C9xuuvO/D5WY7BNMPUYuiqCn0F5PgZKwkEXpX3XWIwz2qbNzTDlXrWlGEY4YQ5jr4Mej/EiBi5WiBAKm3Ifh5gLti6UUPwhu/yXWZM/xac0v3FuGU57fX3qEWux5YTvsdBQrFKwYi7xrElfQSzV1MxucDedr8n3IK6Pe//USA90MLlQs6DZULwEXVXnQKkddO1dgknUIlAKGXz5OQcaHTuc8o7CIkF96MUsghYXjKsuKcsxSjpX5lRwunV3nMvVYJUe/FKLX0BU56BSZvh8eA6OFfdaY3g="
+ }
 }
